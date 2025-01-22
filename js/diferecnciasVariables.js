@@ -38,3 +38,10 @@ console.log(array);
 ejemploVar();
 ejemploLet();
 ejemploConst();
+/*
+const miFuncion =()=> {
+    console.log("prueba");
+}
+
+miFuncion();
+*/
